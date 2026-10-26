@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **275** 🎉
+**AWESOME** apps counter: **276** 🎉
 
 ### Contents
 
@@ -1676,6 +1676,17 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://shabinder.github.io/SpotiFlyer/)
 
 ## Music Player
+
+### Apex Music Player
+
+<img alt="ApexMusicPlayerIcon" height="64" src="https://raw.githubusercontent.com/Yaromir-Anokhin/apex-music-player/main/assets/icon-192.png">
+
+> Modern, lightweight open-source Android music player with YouTube audio & album cover downloader, 10-band equalizer, 3D visualizer, and custom playlists. Universal compatibility for Android 5.0 to 15+.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [Source code](https://github.com/Yaromir-Anokhin/apex-music-player)
+- [x] [Official page](https://yaromir-anokhin.github.io/apex-music-player/)
 
 ### Metro :heart:
 
